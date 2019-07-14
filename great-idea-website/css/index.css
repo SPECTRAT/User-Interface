@@ -66,52 +66,53 @@ h1, h2, h3, h4, h5 {
 /* Your code starts here! */
 
 .navigation {
-	margin: auto;
+	text-align: center;
 }
-/*fix this?*/
+
 nav a {
 	color: grey;
 	display: inline-block;
 	text-decoration: none;
-	position: relative;
-	padding: 25px;
-	text-align: center;
+	padding: 0px 60px 60px 0px;
+
 	
 }
 
 .logo {
 	margin-left: 40px;
-	margin-bottom: -14px'
+	margin-bottom: -12px;
 }
 .container {
-    margin: auto;
-    padding: 10px;
-    display: inline-block;
-    text-align: center;    
+    text-align: center;
+	margin-left:20%;
+	margin-bottom: 20px;
+	display: inline-block;
+	padding-bottom: px;
+     
+}
+
+.buttonAndText{
+	padding-bottom: 
 }
 
 h1 {
-	width: 250px;
+	
 	font-size: 70px;
-	padding: 30px;
-	margin: 40px;
-	display: inline-block;
-}
-
-header img {
-	margin-bottom: -90px;
-	margin-top: 0px;
+	text-align: center;
+	
 }
 
 
 button {
   background: white;
   border: 1px solid black;
-  width: 125px;
-  height: 25px;
-  
+  width: 130px;
+  height: 25px;  
+
 }
 
-.divider {
-	border-top: 1px solid black;
+header img {
+	padding-left: 75px;
+	
 }
+
